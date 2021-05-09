@@ -1,0 +1,12 @@
+body{
+    background:linear-gradient(#050001 0%,#2cf005 100%);
+    background-repeat: no-repeat;
+    text-align: center;
+}
+img{
+    width:300px;
+    border-radius: 500%;
+}
+h1{
+    color: aliceblue;
+}
